@@ -1,5 +1,3 @@
-import logging
-import re
 from aiogram import types
 from aiogram.types import CallbackQuery
 
